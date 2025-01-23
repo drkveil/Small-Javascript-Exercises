@@ -1,6 +1,5 @@
-function myProfile(name, age, grade){
-    console.log("Hi! " + name + ", just a reminder that you are " + age + " years old and your grade is " + grade);
+function add7(number){
+    return number + 7;
 }
 
-myProfile("Suleiman", 25, 5);
-myProfile("Ali", 15, 4);
+console.log(add7(4));
